@@ -1,2 +1,2 @@
 # fibonacci-and-lucas-numbers
-this program tells the value of the fibonacci numbers and the Lucas series.
+this program tells the value of the fibonacci numbers and the Lucas series.So basically fibonacci numbers start from 0 and each number is equal to the sum of the preceding 2 numbers,individual numbers in the Lucas sequence are known as Lucas numbers, The Lucas sequence has the same recursive relationship as the fibonacci sequence where each term is the sum of the two previous terms, but it has different starting values.
